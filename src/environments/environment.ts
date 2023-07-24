@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'https://maorel.com/api'
+  url: 'https://maorel1.com/api'
 };
 
 /*
