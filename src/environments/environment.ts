@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'https://ec2-prod.maorel1.com/api'
+  url: 'https://ecs.maorel1.com/api'
 };
 
 /*
