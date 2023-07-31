@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  url: 'https://ec2-prod.maorel1.com/api'
+  url: 'https://ecs.maorel1.com/api'
 };
